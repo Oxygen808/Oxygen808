@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/Oxygen808/Oxygen808/output/snake.svg" alt="Snake animation" />
 
 ###
