@@ -26,13 +26,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/mehmet_okur08_/" target="_blank">
+  <a href="https://www.instagram.com/mehmet1.08x/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="39" alt="instagram logo"  />
   </a>
   <a href="https://twitter.com/Oxygen_808" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="59" height="39" alt="twitter logo"  />
   </a>
-  <a href="https://t.me/Mehmett_o9" target="_blank">
+  <a href="https://t.me/Samurai8ll" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="59" height="39" alt="telegram logo"  />
   </a>
 </div>
